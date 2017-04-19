@@ -1,0 +1,44 @@
+Username:cevans0971
+Password:A00420971
+Semester:Fall 2014
+Final Average:0
+The class name is:Intro to American Literature
+Professor:Michael Duni
+E-Mail:mduni@westfield.ma.edu
+Phone number:413-xxx-xxxx
+Office:B202
+Office Hours:12-5 TH
+Publisher Info:N/A
+Title:N/A
+Credits:3
+Final Grade:0
+The class name is:Program Design 2
+Professor:Nathan Green
+E-Mail:ngreen@westfield.ma.edu
+Phone number:413-xxx-xxxx
+Office:W405
+Office Hours:11-5 everyday
+Publisher Info:Addison
+Title:Design Patterns
+Credits:4
+Final Grade:0
+The class name is:Principles of MacroEconomics
+Professor:Jason Forgue
+E-Mail:jforgue@westfield.ma.edu
+Phone number:413-547-2801
+Office:W202
+Office Hours:12-3 TR
+Publisher Info:Pearson
+Title:Fundamentals of MacroEconomics
+Credits:3
+Final Grade:0
+The class name is:Elements of System Programming
+Professor:Goopeel Chung
+E-Mail:gchung@westfield.ma.edu
+Phone number:413-xxx-xxxx
+Office:W407
+Office Hours:12-3 TH
+Publisher Info:N/A
+Title:N/A
+Credits:3
+Final Grade:0
